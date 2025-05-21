@@ -1,0 +1,80 @@
+# 🧠 50 Days of Coding Challenge
+
+Welcome to my **50 Days of Coding Challenge**! 🚀  
+For the next **50 days**, I’ll be tackling a variety of coding problems to sharpen my skills, improve problem-solving speed, and strengthen my understanding of core programming concepts.
+
+## 📅 Challenge Duration
+
+**Start Date:** [Add your start date here]  
+**End Date:** [Add your expected end date here]
+
+---
+
+## 📌 Objective
+
+- Solve at least one new coding problem every day
+- Cover a wide range of topics (data structures, algorithms, etc.)
+- Document my learning, approach, and solutions
+- Build consistency and discipline through daily practice
+
+---
+
+## 🧠 Topics Covered
+
+Throughout this challenge, I will cover problems from areas such as:
+
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Recursion & Backtracking
+- Searching & Sorting
+- Greedy Algorithms
+- Bit Manipulation
+- Math & Number Theory
+- Sliding Window & Two Pointers
+
+---
+
+## 🧩 Problem Sources
+
+Problems will be picked from various trusted platforms:
+- [LeetCode](https://leetcode.com)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [HackerRank](https://www.hackerrank.com)
+
+---
+
+## 🚀 Progress Tracker
+
+| Day | Problem | Topic | Status |
+|-----|---------|--------|--------|
+| 01  | Problem Name | Topic Name | ✅ Done |
+| 02  | Problem Name | Topic Name | ✅ Done |
+| ... | ... | ... | ... |
+| 50  | Problem Name | Topic Name | ⏳ Upcoming |
+
+> ✅ = Completed | ⏳ = In Progress | ❌ = Missed
+
+---
+
+## 🌟 Goals
+
+- Stay consistent for 50 days
+- Improve logical thinking and code optimization
+- Be better prepared for coding interviews
+- Build a strong portfolio of solved problems
+
+---
+
+## 📣 Let's Connect
+
+If you're also doing a coding challenge, feel free to connect and collaborate!  
+📬 [programming.anam@gmail.com](mailto:programming.anam@gmail.com)
+
+---
+
+**Thanks for visiting and wish me luck!** 🙌  
+_“A little progress each day adds up to big results.”_
+
+
