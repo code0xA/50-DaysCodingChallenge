@@ -5,8 +5,8 @@ For the next **50 days**, I’ll be tackling a variety of coding problems to sha
 
 ## 📅 Challenge Duration
 
-**Start Date:** [Add your start date here]  
-**End Date:** [Add your expected end date here]
+**Start Date:** 30 Apr 2025  
+**End Date:** NA
 
 ---
 
@@ -47,14 +47,27 @@ Problems will be picked from various trusted platforms:
 
 ## 🚀 Progress Tracker
 
-| Day | Problem | Topic | Status |
-|-----|---------|--------|--------|
-| 01  | Problem Name | Topic Name | ✅ Done |
-| 02  | Problem Name | Topic Name | ✅ Done |
-| ... | ... | ... | ... |
-| 50  | Problem Name | Topic Name | ⏳ Upcoming |
+| Day | Problem                 | Topic       | Status   |
+|-----|-------------------------|-------------|----------|
+| 01  | Reverse Linked List     | Linked List | ✅ Done  |
+|     | Missing Number          | Math        | ✅ Done  |
+| 02  | Middle of the Linked List | Linked List | ✅ Done  |
+|     | Add Digits              | Math        | ✅ Done  |
+| 03  | Merge Two Sorted Lists  | Linked List | ✅ Done  |
+|     | Perfect Number          | Math        | ✅ Done  |
+| 04  | Linked List Cycle       | Linked List | ✅ Done  |
+|     | Palindrome Number       | Math        | ✅ Done  |
+| 05  | Palindrome Linked List  | Linked List | ✅ Done  |
+|     | Valid Perfect Square    | Math        | ✅ Done  |
+| 06  | Remove Linked List Elements | Linked List | ✅ Done  |
+|     | Happy Number            | Math        | ✅ Done  |
+| 07  | Rotate List             | Linked List | ✅ Done  |
+|     | Plus One                | Math        | ✅ Done  |
+| ... | ...                     | ...         | ...      |
+| 50  | Problem Name            | Topic Name  | ⏳ Upcoming |
 
 > ✅ = Completed | ⏳ = In Progress | ❌ = Missed
+
 
 ---
 
