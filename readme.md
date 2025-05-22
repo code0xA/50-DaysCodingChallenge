@@ -47,27 +47,40 @@ Problems will be picked from various trusted platforms:
 
 ## 🚀 Progress Tracker
 
-| Day | Problem                 | Topic       | Status   |
-|-----|-------------------------|-------------|----------|
-| 01  | Reverse Linked List     | Linked List | ✅ Done  |
-|     | Missing Number          | Math        | ✅ Done  |
-| 02  | Middle of the Linked List | Linked List | ✅ Done  |
-|     | Add Digits              | Math        | ✅ Done  |
-| 03  | Merge Two Sorted Lists  | Linked List | ✅ Done  |
-|     | Perfect Number          | Math        | ✅ Done  |
-| 04  | Linked List Cycle       | Linked List | ✅ Done  |
-|     | Palindrome Number       | Math        | ✅ Done  |
-| 05  | Palindrome Linked List  | Linked List | ✅ Done  |
-|     | Valid Perfect Square    | Math        | ✅ Done  |
-| 06  | Remove Linked List Elements | Linked List | ✅ Done  |
-|     | Happy Number            | Math        | ✅ Done  |
-| 07  | Rotate List             | Linked List | ✅ Done  |
-|     | Plus One                | Math        | ✅ Done  |
-| ... | ...                     | ...         | ...      |
-| 50  | Problem Name            | Topic Name  | ⏳ Upcoming |
+| Day | Problem                             | Topic       | Status   |
+|-----|-------------------------------------|-------------|----------|
+| 01  | Reverse Linked List                 | Linked List | ✅ Done  |
+|     | Missing Number                      | Math        | ✅ Done  |
+| 02  | Middle of the Linked List           | Linked List | ✅ Done  |
+|     | Add Digits                          | Math        | ✅ Done  |
+| 03  | Merge Two Sorted Lists              | Linked List | ✅ Done  |
+|     | Perfect Number                      | Math        | ✅ Done  |
+| 04  | Linked List Cycle                   | Linked List | ✅ Done  |
+|     | Palindrome Number                   | Math        | ✅ Done  |
+| 05  | Palindrome Linked List              | Linked List | ✅ Done  |
+|     | Valid Perfect Square                | Math        | ✅ Done  |
+| 06  | Remove Linked List Elements         | Linked List | ✅ Done  |
+|     | Happy Number                        | Math        | ✅ Done  |
+| 07  | Rotate List                         | Linked List | ✅ Done  |
+|     | Plus One                            | Math        | ✅ Done  |
+| 08  | Odd Even Linked List                | Linked List | ✅ Done  |
+|     | Excel Sheet Column Number           | Math        | ✅ Done  |
+| 09  | Swapping Nodes in a Linked List     | Linked List | ✅ Done  |
+|     | Nth Digit                           | Math        | ✅ Done  |
+| 10  | Delete the Middle Node of a Linked List | Linked List | ✅ Done  |
+|     | Bulb Switcher                       | Math        | ✅ Done  |
+| 11  | Remove Nth Node From End of List    | Linked List | ✅ Done  |
+|     | Factorial Trailing Zeroes           | Math        | ✅ Done  |
+| 12  | Insert Greatest Common Divisors in Linked List | Linked List | ✅ Done  |
+|     | Count Odd Numbers in an Interval Range | Math     | ✅ Done  |
+| 13  | Remove Duplicates from Sorted List II | Linked List | ✅ Done  |
+|     | Sign of the Product of an Array     | Math        | ✅ Done  |
+| 14  | Partition List                      | Linked List | ✅ Done  |
+|     | Reverse Integer                     | Math        | ✅ Done  |
+| ... | ...                                 | ...         | ...      |
+| 50  | Problem Name                        | Topic Name  | ⏳ Upcoming |
 
 > ✅ = Completed | ⏳ = In Progress | ❌ = Missed
-
 
 ---
 
