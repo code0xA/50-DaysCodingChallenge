@@ -77,6 +77,20 @@ Problems will be picked from various trusted platforms:
 |     | Sign of the Product of an Array     | Math        | ✅ Done  |
 | 14  | Partition List                      | Linked List | ✅ Done  |
 |     | Reverse Integer                     | Math        | ✅ Done  |
+| 15  | Add Two Numbers                     | Linked List | ✅ Done  |
+|     | Excel Sheet Column Title            | Math        | ✅ Done  |
+| 16  | Delete Node in a Linked List        | Linked List | ✅ Done  |
+|     | Sum of Square Numbers               | Math        | ✅ Done  |
+| 17  | Min Stack                           | Stack       | ✅ Done  |
+|     | Two Sum                             | Math        | ✅ Done  |
+| 18  | Implement Queue using Stacks        | Stack       | ✅ Done  |
+|     | Contains Duplicate                  | Math        | ✅ Done  |
+| 19  | Valid Parentheses                   | Stack       | ✅ Done  |
+|     | Best Time to Buy and Sell Stock     | Math        | ✅ Done  |
+| 20  | Evaluate Reverse Polish Notation    | Stack       | ✅ Done  |
+|     | Find Greatest Common Divisor of Array | Math     | ✅ Done  |
+| 21  | Valid Parenthesis String            | Stack       | ✅ Done  |
+|     | Pascal's Triangle II                | Math        | ✅ Done  |
 | ... | ...                                 | ...         | ...      |
 | 50  | Problem Name                        | Topic Name  | ⏳ Upcoming |
 
